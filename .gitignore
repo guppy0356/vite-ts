@@ -25,3 +25,6 @@ dist-ssr
 
 # Ignore firebase cache
 .firebase/*
+
+# Ignore build info
+*.tsbuildinfo
